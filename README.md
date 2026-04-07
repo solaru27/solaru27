@@ -1,40 +1,29 @@
-# Solaru Explains
+# Cristea Olaru Stefan - Security Researcher
 
-Solaru Explains is my technical blog focused on cybersecurity topics such as reverse engineering, malware analysis, and exploitation fundamentals.
+Welcome! This is my GitHub landing page, showcasing my work, projects, and technical content related to cybersecurity.
 
-## 🌐 Live Website
-The blog is available here:
-👉 https://solaru27.github.io/Solaru_Explains/
+## 🌐 Live Portfolio
+My portfolio is hosted as a GitHub Pages site:  
+👉 [https://solaru27.github.io/](https://solaru27.github.io/)
 
-My main landing page (portfolio) is hosted at:
-👉 https://solaru27.github.io/
+Here you can explore:
+- My background and experience
+- Areas of interest in security research
+- Projects and write-ups
+- My technical blog: [Solaru Explains](https://solaru27.github.io/Solaru_Explains/)
 
-## 📖 About
-This blog serves two main purposes:
-- To provide clear and practical explanations for beginners and intermediate learners
-- To deepen my own understanding by documenting my thought process
+## 🧑‍💻 About Me
+I’m **Cristea-Olaru Stefan** (aka *solaru* / *SOC*), a Security Researcher at Bitdefender.  
+I focus on practical security research, malware analysis, reverse engineering, and building proof-of-concept implementations.
 
-Content includes:
-- Reverse engineering tutorials and roadmaps
-- Malware analysis notes
-- CTF-related concepts and write-ups
-- General security research topics
-
-## 🧠 Philosophy
-I focus on breaking down complex concepts into understandable steps, often backed by hands-on examples.
-
-⚠️ Disclaimer:  
-The content reflects my current understanding. Always cross-check important information with additional sources.
-
-## 🛠️ Structure
-Current sections:
-- Reverse Engineering Tutorials and Roadmaps
-
-More content will be added over time.
+## 🛠️ Projects & Work
+Some highlights include:
+- VBSabbath – VBScript deobfuscator (bachelor thesis)  
+- FII Practic 2026 – Reverse engineering tutor & practical examples  
+- HackTheBox / TryHackMe challenges  
+- Tools: Http-Sniffer, NetMap, write-ups repository
 
 ## 📬 Contact
-- Email: stefancristea27@gmail.com
-- GitHub: https://github.com/solaru27
-- LinkedIn: https://www.linkedin.com/in/stefan-cristea-olaru-371091254
-
----
+- Email: [stefancristea27@gmail.com](mailto:stefancristea27@gmail.com)  
+- GitHub: [https://github.com/solaru27](https://github.com/solaru27)  
+- LinkedIn: [https://www.linkedin.com/in/stefan-cristea-olaru-371091254](https://www.linkedin.com/in/stefan-cristea-olaru-371091254)
