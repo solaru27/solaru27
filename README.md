@@ -10,7 +10,6 @@ Here you can explore:
 - My background and experience
 - Areas of interest in security research
 - Projects and write-ups
-- My technical blog: [Solaru Explains](https://solaru27.github.io/Solaru_Explains/)
 
 ## 🧑‍💻 About Me
 I’m **Cristea-Olaru Stefan** (aka *solaru* / *SOC*), a Security Researcher at Bitdefender.  
